@@ -1,7 +1,6 @@
 
 
 # 👋 Hi there! I'm Harun Reşit Karaca.
-I’m currently learning Kotlin.
 
 
 [![GitHub followers](https://img.shields.io/github/followers/harunresit44?style=social)](https://github.com/harunresit44?tab=followers)
