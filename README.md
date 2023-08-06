@@ -7,7 +7,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/harunresit44?style=social) 
   
 
- <a href="https://www.linkedin.com/in/harunrstkaraca/" target="_blank" rel="nofollow"><img alt="Harun's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+ <a href="www.linkedin.com/in/harunresitkaraca" target="_blank" rel="nofollow"><img alt="Harun's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
  <a href="mailto:harunrstkaraca@gmail.com" target="_blank" rel="nofollow"><img alt="Harun's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://github.com/harunresit44" target="_blank" rel="nofollow"><img alt="Harun's Github" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink"></img>
 
